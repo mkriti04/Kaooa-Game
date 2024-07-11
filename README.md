@@ -1,0 +1,13 @@
+`kaooa.py`
+- `DARKBLUE` represents vulture.
+- `PINK` represents crows.
+- `BEIGE` represents as empty.
+- `SKYBLUE` is the background colour.
+- Intially `START GAME` is displayed at the center of the star.
+- After all the crows have entered, to move a crow first click on the crow to be moved and then on button to where it should be moved.
+- To move a vulture first click on the vulture and then on button to where it should be moved.
+- When Vulture / crow is clicked to move it shows all empty buttons available.
+- When the vulture wishes to kill the crow first vulture should be clicked then then empty button next to crow on the same line should be clicked to kill crow and move the vulture to that button.
+- In the center of the star I'm displaying whose turn is it to move or place them.
+- I have used time library to use sleep for the text being displayed for 0.5-2 seconds at the center and at at the empty buttons.
+- The winner is shown at the center of the star and finally it shows `GAME ENDED`.
